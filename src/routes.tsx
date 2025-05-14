@@ -1,4 +1,3 @@
-import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 import LoginForm from "./components/LoginForm";
 import DogSearch from "./components/DogSearch";

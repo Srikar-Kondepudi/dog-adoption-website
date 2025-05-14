@@ -1,4 +1,3 @@
-import React from "react";
 import { Card, CardMedia, CardContent, Typography, CardActions, Button } from "@mui/material";
 import type { Dog } from "../types";
 import { useFavorites } from "../context/FavoritesContext";

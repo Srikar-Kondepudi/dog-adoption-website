@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Box, Typography, Select, MenuItem, FormControl, InputLabel, Button, Grid, CircularProgress } from "@mui/material";
 import api from "../api/fetchApi";
 import DogCard from "./DogCard";

@@ -1,4 +1,3 @@
-import React from "react";
 import { Button, ButtonGroup } from "@mui/material";
 
 export default function Pagination({ onPrev, onNext, hasPrev, hasNext }: {
